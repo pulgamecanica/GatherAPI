@@ -1,6 +1,6 @@
 ## Gather API tools
 
-# Fetch all your Maps, get the ID's and Namse
+### Fetch all your Maps, get the ID's and Namse
 
 First choose the space you want to fetch the maps for, you should use the space name:
 
