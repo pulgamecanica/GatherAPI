@@ -1,8 +1,8 @@
 require "http"
 require "json"
 
-API_ENCODED_SECRET="1ec592a6849c3dc5bc2688099721063b6585c1a3d330fa46816dae8907708627"
-API_SECRET="Au1mDdidcYCt5EvC"
+API_ENCODED_SECRET="Your Secret"
+API_SECRET="Your Secret"
 SPACE_ID="8V8iMEujg5pMIMaA"
 SPACE_NAME="42Portfolio"
 BASE_URL="api.gather.town/api"
